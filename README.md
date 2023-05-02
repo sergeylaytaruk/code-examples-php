@@ -1,2 +1,2 @@
-# code-examples-php
+# code examples php
 My php code examples
